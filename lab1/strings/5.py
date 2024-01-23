@@ -1,2 +1,3 @@
-a = "weriiiize"
-print(a[1])
+txt = "hello world"
+txt = txt.upper()
+print(txt)

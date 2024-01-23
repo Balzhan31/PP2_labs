@@ -1,2 +1,3 @@
-a = "hello"
-print(a)
+txt = "Hello world"
+x = txt[0]
+print(x)

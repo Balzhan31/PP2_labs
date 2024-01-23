@@ -1,2 +1,2 @@
-print("Hi")
-print('Heeello')
+x = "hello world"
+print(len(x))

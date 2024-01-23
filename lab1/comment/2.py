@@ -1,2 +1,5 @@
-#print("Hello, world!")
-print("Cheers, Mate")
+"""
+diz is a comment
+written in
+more than just one line
+"""

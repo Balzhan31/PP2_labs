@@ -1,3 +1,2 @@
-x = 1 #x is int type
-x = "Jake" #now x is str type
+x = 50
 print(x)

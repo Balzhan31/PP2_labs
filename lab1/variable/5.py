@@ -1,5 +1,4 @@
-x = "Jay"
+x, y, z = "Manana", "Almond", "Kiwi"
 print(x)
-#double quotes same as single quotes:
-x = 'Jay'
-print(x)
+print(y)
+print(z)

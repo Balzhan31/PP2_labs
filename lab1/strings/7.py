@@ -1,2 +1,3 @@
-a = "5시 53분의 하늘에서 발견한 너와 나"
-print(len(a))
+txt = "Hello, world"
+txt = txt.replace("H", "J")
+print(txt)

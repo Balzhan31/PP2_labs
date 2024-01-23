@@ -1,2 +1,3 @@
-txt = "9 and three quarters"
-print("quarters" in txt)
+age = 36
+txt = "My name is John, and I am {} "
+print(txt.format(age))

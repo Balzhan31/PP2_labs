@@ -1,2 +1,3 @@
-for x in "briiiize":
-    print(x)
+txt = "Hello world"
+txt = txt.lower()
+print(txt)

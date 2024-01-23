@@ -1,5 +1,4 @@
-x = 1
-X = "Jay"
-#A not overwrite a
+x = y = z = "Orange"
 print(x)
-print(X)
+print(y)
+print(z)
